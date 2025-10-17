@@ -19,8 +19,6 @@
 <h2>Projects</h2>
 <ul>
  </li> - 🔧 <a href=https://github.com/KH-Nolan5908/Home-lab><strong>Active Directory Home Lab</strong></a>: Set up a home lab environment to practice and reinforce 1st line support skills. Configured Windows Server 2022 as a Domain Controller and linked it with Windows 10 clients to simulate a corporate environment. Managed Active Directory, including creating users, setting permissions, and configuring group policies. Experimented with device configurations, basic networking, and troubleshooting practices.</li>
-  <li>📄 <strong>Active Directory Setup Documentation</strong>: Documented the user setup process in Active Directory, including steps for efficient deployment in a corporate environment. Detailed procedures for OS installation, user account creation, commands and basic system configurations.</li>
-</ul>
 
 <h2>Certifications</h2>
 <ul>
