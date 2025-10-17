@@ -2,9 +2,8 @@
 
 <h2>About Me</h2>
 <ul>
-  <li>🎓 Computer Science Student | 🔧 CompTIA A+ certified</li>
+  <li>🎓 Computer Science Student | 🔧 CompTIA Network+ certified</li>
   <li>💻 Currently building home labs to practice 1st line support skills 🏠</li>
-  <li>🚀 Eager to break into IT, bringing 3+ years of customer service experience 💬</li>
   <li>👨‍💻 Programmer with a love for electronics </li>
 </ul>
 
@@ -25,8 +24,6 @@
 
 <h2>Certifications</h2>
 <ul>
-  <li>🛠️ <strong>CompTIA A+</strong> – Verified ✅</li>
+  <li>🛠️ <strong>CompTIA Network+</strong> – Verified ✅</li>
 </ul>
-
-<h2>Let's Connect</h2>
 
