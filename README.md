@@ -21,7 +21,7 @@
 
 <h2>Certifications</h2>
 <ul>
-  <li>🛠️ <a href=https://www.credly.com/earner/earned/badge/91995862-99b3-4b39-b918-44f457439ec2><strong>CompTIA Network+ </strong></a> </li>
+  <li>🛠️ <a href=https://www.credly.com/badges/91995862-99b3-4b39-b918-44f457439ec2/public_url><strong>CompTIA Network+ </strong></a> </li>
   <li>🛠️ <a href=https://www.credly.com/badges/17b718f3-517a-432f-a323-18481982c3af/public_url><strong>CompTIA Security+ </strong></a> </li>
 </ul>
 
