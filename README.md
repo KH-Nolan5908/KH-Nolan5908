@@ -1,27 +1,27 @@
-<h1>Hi, I'm Kenneth! 🐾 <br/><a href=https://github.com/KH-Nolan5908>IT Support Technician</a></h1>
+<h1>Hi, I'm Kenneth! 🐾 <br/><a href=https://github.com/KH-Nolan5908></a></h1>
 
 <h2>About Me</h2>
 <ul>
-  <li>🎓 Computer Science Student | 🔧 CompTIA Network+ certified</li>
-  <li>💻 Currently building home labs to practice 1st line support skills 🏠</li>
-  <li>👨‍💻 Programmer with a love for electronics </li>
+  <li>🎓 Computer Science Student | 🔧 CompTIA Network+ & Security+ certified</li>
+  <li>💻 Currently building home labs to practice 1st line IT support skills</li>
 </ul>
 
 <h2>Skills</h2>
 <strong>Technical:</strong>
 <ul>
   <li>🖥️ Windows/macOS troubleshooting and OS installation 🔧</li>
-  <li>🌐 Networking fundamentals: TCP/IP, DHCP/DNS configuration and VPN setup 📶</li>
+  <li>🌐 Networking fundamentals: TCP/IP, DHCP/DNS configuration and VPN setup </li>
   <li>🔑 Active Directory: group management & user account creation with domain setup 👥</li>
-  <li>🛠️ Device management: Hardware replacements (RAM, screen), configuring and setting up printers, troubleshooting and optimizing system performance, peripheral management (keyboard, mouse, etc.), and ensuring device connectivity (USB, display, audio, etc.)</li>
 </ul>
 
 <h2>Projects</h2>
 <ul>
- </li> - 🔧 <a href=https://github.com/KH-Nolan5908/Home-lab><strong>Active Directory Home Lab</strong></a>: Set up a home lab environment to practice and reinforce 1st line support skills. Configured Windows Server 2022 as a Domain Controller and linked it with Windows 10 clients to simulate a corporate environment. Managed Active Directory, including creating users, setting permissions, and configuring group policies. Experimented with device configurations, basic networking, and troubleshooting practices.</li>
+ </li> - 🔧 <a href=https://github.com/KH-Nolan5908/Home-lab><strong>Active Directory Home Lab</strong></a>: Configured Windows Server 2022 as a domain controller and linked it with a Windows 10 client to simulate a corporate environment. Managed Active Directory, by creating users, setting up permissions, and configuring group policies. 
+</ul>
 
 <h2>Certifications</h2>
 <ul>
-  <li>🛠️ <strong>CompTIA Network+</strong> – Verified ✅</li>
+  <li>🛠️ <a href=https://www.credly.com/earner/earned/badge/91995862-99b3-4b39-b918-44f457439ec2><strong>CompTIA Network+ </strong></a> </li>
+  <li>🛠️ <a href=https://www.credly.com/badges/17b718f3-517a-432f-a323-18481982c3af/public_url><strong>CompTIA Security+ </strong></a> </li>
 </ul>
 
